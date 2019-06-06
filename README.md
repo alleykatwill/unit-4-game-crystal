@@ -1,1 +1,2 @@
-# unit-4-game-crystal
+# unit-4-game
+Bootcamp JQuery Homework
